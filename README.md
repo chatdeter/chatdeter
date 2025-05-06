@@ -1,4 +1,9 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Jsuis+la+genre+tkt,+mais+frero+la+verité+inquièt+toi)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Jsuis+la+genre+tkt,)](https://git.io/typing-svg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=mais+frero+la+verité+inquiète+toi)](https://git.io/typing-svg)
+
+<p align="center">
+    <img align="center" src="https://cdn.discordapp.com/attachments/1365426553550540822/1365426961882808431/d1aaed0a70001627c4ae78731f3f7c30.png?ex=681b1c34&is=6819cab4&hm=1629dfe166978b632c824bccc561cb3858aa3eb1ac9ab8bc39c3d897a9868ccb">
+</p>
 
 <p align="center">
     <img align="center" src="https://c.tenor.com/ECxArdaecCAAAAAC/tenor.gif">
