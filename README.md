@@ -19,7 +19,7 @@
 
 -----
 
-### 💻 ☆ Languages & Technologies :
+### 💻 Languages & Technologies :
 
 [![Languages](https://skillicons.dev/icons?i=c,zig)](https://skillicons.dev) <br />
 [![Languages](https://skillicons.dev/icons?i=ts,python,md,latex)](https://skillicons.dev) <br />
@@ -29,11 +29,11 @@
 
 -----
 
-### 🌐 ☆ Distributions :
+### 🌐 Distributions :
 
 [![Distribution](https://skillicons.dev/icons?i=apple,windows,debian)](https://skillicons.dev) <br />
 
 -----
 
-### 📲 ☆ Socials :
+### 📲 Socials :
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chatdeter)
